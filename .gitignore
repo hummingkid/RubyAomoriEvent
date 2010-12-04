@@ -6,4 +6,4 @@ tmp/**/*
 Thumbs.db
 .buildpath
 .project
-
+.rvmrc
