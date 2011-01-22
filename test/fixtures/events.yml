@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  summary: MyString
+  dtstart: 2011-01-22 15:49:59
+  dtend: 2011-01-22 15:49:59
+  location: MyString
+  description: MyText
+
+two:
+  summary: MyString
+  dtstart: 2011-01-22 15:49:59
+  dtend: 2011-01-22 15:49:59
+  location: MyString
+  description: MyText
