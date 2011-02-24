@@ -1,6 +1,6 @@
 RubyAomoriEvent::Application.routes.draw do
   resources :events
-  match '*summary/events/:id' => 'events#show'
+  get '*summary/events/:id' => 'events#show'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
